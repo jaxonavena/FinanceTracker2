@@ -4,3 +4,18 @@ date,amount,category,description
 23-04-2025,123.0,Income,jax
 23-04-2025,123.0,Expense,jan
 23-04-2025,69.0,Income,jax
+24-04-2025,45.67,Expense,groceries
+25-04-2025,1500.00,Income,freelance project
+26-04-2025,78.90,Expense,restaurant
+27-04-2025,200.00,Expense,utilities
+28-04-2025,89.99,Expense,subscription
+29-04-2025,300.00,Income,bonus
+30-04-2025,15.00,Expense,coffee
+01-05-2025,120.00,Income,gift
+02-05-2025,50.00,Expense,transport
+03-05-2025,600.00,Income,refund
+04-05-2025,34.99,Expense,books
+05-05-2025,100.00,Expense,clothes
+06-05-2025,200.00,Income,tutoring
+07-05-2025,75.00,Expense,dining
+08-05-2025,500.00,Income,dividends
